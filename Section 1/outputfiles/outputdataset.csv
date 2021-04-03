@@ -1,0 +1,9 @@
+price,First Name,Last Name,Above_100
+234.0,Muthukumar,Sundararajan,true
+30.0,John,Mathew,false
+40.0,Jack,Daniel,false
+70.0,Raja,,false
+234.0,Muthukumar,Sundararajan,true
+30.0,John,Mathew,false
+40.0,Jack,Daniel,false
+70.0,Raja,,false
